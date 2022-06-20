@@ -1,0 +1,3 @@
+# Inteligencia Artificial
+
+Um pequeno projeto Web dividido em tres fases: a primeiro seria como se fosse um jogo onde o jogador deve encontrar a melhor maneira de se aspirar toda poeira da casa no menor numero de movimentos. A segunda demonstra como é o funcionamento de busca de profundidade e de largura que a IA faz. A terceira fase o robo aspirador terá que achar qual é o melhor caminho para que ele possa limpar todos os pontos sujos da casa (marcados com letras) e voltar para o seu posto de origem (marcado com uma #) sem colidir com os objetos da casa (blocos escuros)!
